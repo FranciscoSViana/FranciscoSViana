@@ -9,7 +9,7 @@
 
 ### Hi Devs!!! 👋
 
-Tenho 30 anos, moro em São Paulo/SP e sou apaixonado por programação! Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+Tenho 33 anos, moro em São Paulo/SP e sou apaixonado por programação! Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
 
 ### Ferramentas e Tecnologias
@@ -32,7 +32,7 @@ Tenho 30 anos, moro em São Paulo/SP e sou apaixonado por programação! Sou ini
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
-🔭 Sou dev java jr na NTT DATA Brasil;
+🔭 Sou dev java;
 
 📚 Tenho estudado Java e iniciei meus estudos para me tornar um especialista e a médio longo prazo dev fullstack;
 

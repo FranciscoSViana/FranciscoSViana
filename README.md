@@ -1,27 +1,31 @@
-````md
 # 👨‍💻 Francisco Viana
+
+<div align="left">
 
 ### Software Engineer | Java • Spring Boot • Cloud • Microservices • DevOps
 
-Sou engenheiro de software com foco em desenvolvimento backend utilizando Java e ecossistema Spring.  
-Tenho experiência com microsserviços, arquitetura de software, APIs REST, cloud computing, containers, CI/CD e automação de testes.
+</div>
+
+Sou engenheiro de software com foco em desenvolvimento backend utilizando Java e ecossistema Spring.
+
+Tenho experiência com microsserviços, arquitetura de software, APIs REST, cloud computing, containers, CI/CD, mensageria e automação de testes.
 
 Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a boas práticas de engenharia de software.
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-- 💼 Software Engineer na Mirante Tecnologia
-- ☕ Especialista em desenvolvimento Java/Spring
-- 🏗️ Interesse em Arquitetura de Software e Sistemas Distribuídos
-- ☁️ Experiência com AWS, GCP, Docker e Kubernetes
-- 🔍 Estudando continuamente Microsserviços, Clean Architecture, DDD e Cloud Native
-- 📚 Apaixonado por tecnologia, aprendizado contínuo e compartilhamento de conhecimento
+* 💼 Software Engineer na NTT DATA Europe & Latam
+* ☕ Especialista em desenvolvimento Java/Spring
+* 🏗️ Interesse em Arquitetura de Software e Sistemas Distribuídos
+* ☁️ Experiência com AWS, GCP, Docker e Kubernetes
+* 🔍 Estudando continuamente Microsserviços, Clean Architecture, DDD e Cloud Native
+* 📚 Apaixonado por tecnologia, aprendizado contínuo e compartilhamento de conhecimento
 
 ---
 
-## 🌎 Conecte-se comigo
+# 🌎 Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/franciscovianadev" target="_blank">
@@ -31,6 +35,10 @@ Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a
   <a href="https://www.instagram.com/franciscosviana/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -38,6 +46,7 @@ Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a
 # 🛠️ Tech Stack
 
 ## Backend
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
@@ -45,6 +54,7 @@ Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a
 </p>
 
 ## Cloud & DevOps
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" />
@@ -54,6 +64,7 @@ Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a
 </p>
 
 ## Banco de Dados
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
@@ -61,6 +72,7 @@ Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a
 </p>
 
 ## Ferramentas
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
@@ -79,12 +91,12 @@ Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" />
 </p>
 
-- Apache Kafka
-- Arquitetura Hexagonal
-- Event Driven Architecture
-- Observabilidade
-- IA aplicada ao desenvolvimento
-- Sistemas distribuídos
+* Apache Kafka
+* Arquitetura Hexagonal
+* Event Driven Architecture
+* Observabilidade
+* IA aplicada ao desenvolvimento
+* Sistemas distribuídos
 
 ---
 
@@ -115,11 +127,15 @@ Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a
 ✔ Mensageria com Kafka
 ✔ SQL & NoSQL
 ✔ Observabilidade
-````
+✔ APIs Gateway
+✔ OAuth2 & JWT
+✔ Kubernetes & Cloud Native
+```
 
 ---
 
-⭐ Sempre buscando evoluir como engenheiro de software e construir soluções escaláveis, performáticas e resilientes.
+# 📌 Objetivo
 
-```
-```
+Evoluir continuamente como engenheiro de software, construindo soluções escaláveis, resilientes, performáticas e orientadas a boas práticas de arquitetura e desenvolvimento.
+
+⭐ Sempre aberto a novos desafios, colaboração e compartilhamento de conhecimento.

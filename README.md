@@ -16,7 +16,7 @@ Atualmente atuo desenvolvendo soluções escaláveis, resilientes e orientadas a
 
 # 🚀 Sobre mim
 
-* 💼 Software Engineer na NTT DATA Europe & Latam
+* 💼 Software Engineer na Mirante Tecnologia
 * ☕ Especialista em desenvolvimento Java/Spring
 * 🏗️ Interesse em Arquitetura de Software e Sistemas Distribuídos
 * ☁️ Experiência com AWS, GCP, Docker e Kubernetes

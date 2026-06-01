@@ -4,41 +4,315 @@
 
 # 🚀 Software Engineer
 
-### Java • Spring Boot • Cloud • Microservices • DevOps
+### Java • Spring Boot • Cloud • Microservices • DevOps • Software Architecture
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer+Java+%26+Spring;Cloud+Native+Applications;Microservices+%26+Distributed+Systems;DevOps+%26+CI%2FCD;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Backend+Engineer+Java+%26+Spring;Cloud+Native+Applications;Microservices+%26+Distributed+Systems;DevOps+%26+CI%2FCD;Software+Architecture;Building+Scalable+Systems"/>
+
+Building scalable, resilient and cloud-native applications.
 
 </div>
 
 ---
 
-# 💡 Sobre mim
+## 💡 About Me
 
-Sou engenheiro de software com foco em desenvolvimento backend utilizando Java e ecossistema Spring.
+Software Engineer focused on backend development using Java and the Spring ecosystem.
 
-Tenho experiência com microsserviços, arquitetura de software, APIs REST, cloud computing, mensageria, containers, CI/CD e automação de testes.
+I have experience designing and building REST APIs, distributed systems, microservices and cloud-native applications, applying software engineering principles and architectural best practices.
 
-Atualmente atuo construindo soluções escaláveis, resilientes e orientadas a boas práticas de engenharia de software.
+Passionate about Software Architecture, Cloud Computing, DevOps, Observability, Security and Continuous Learning.
 
----
-
-# 🚀 Experiência & Objetivos
-
-* 💼 Software Engineer na NTT DATA Europe & Latam
-* ☕ Especialista em desenvolvimento Java/Spring
-* 🏗️ Foco em Arquitetura de Software e Sistemas Distribuídos
-* ☁️ Experiência com AWS, GCP, Docker e Kubernetes
-* 🔍 Estudando Microsserviços, Clean Architecture, DDD e Cloud Native
-* 📚 Apaixonado por aprendizado contínuo e compartilhamento de conhecimento
-* 🎯 Objetivo: evoluir continuamente como engenheiro de software backend/cloud
+Currently expanding knowledge in AI Engineering, Platform Engineering and Large Scale Distributed Systems.
 
 ---
 
-# 🌎 Conecte-se comigo
+## 💼 Professional Experience
+
+### Software Engineer | NTT DATA Europe & Latam
+
+Working on enterprise solutions focused on:
+
+- Backend Development with Java & Spring Boot
+- REST APIs and Integration Services
+- Distributed Systems
+- Cloud Platforms
+- OAuth2 & JWT Security
+- CI/CD Pipelines
+- Automated Testing
+- Software Architecture
+- Observability and Monitoring
+
+---
+
+## 🚀 Featured Projects
+
+### 🌸 Perfumaria Platform
+
+Full Stack application focused on perfume catalog management and customer experience.
+
+#### Stack
+
+- Java
+- Spring Boot
+- Angular
+- MySQL
+- Docker
+- JWT Authentication
+
+#### Features
+
+✔ Product Management
+
+✔ Authentication & Authorization
+
+✔ REST APIs
+
+✔ Layered Architecture
+
+✔ Validation
+
+✔ API Documentation
+
+#### Repositories
+
+🔗 Backend
+
+<https://github.com/FranciscoSViana/perfumaria>
+
+🔗 Frontend
+
+<https://github.com/FranciscoSViana/perfumaria-front>
+
+---
+
+### 💰 Meu Orçamento
+
+Personal financial management platform designed to help users manage expenses and income efficiently.
+
+#### Stack
+
+- Java
+- Spring Boot
+- Angular
+- MySQL
+- Docker
+
+#### Features
+
+✔ Expense Management
+
+✔ Income Tracking
+
+✔ Financial Dashboard
+
+✔ Authentication
+
+✔ REST APIs
+
+✔ Data Validation
+
+#### Repositories
+
+🔗 Backend
+
+<https://github.com/FranciscoSViana/meu-orcamento>
+
+🔗 Frontend
+
+<https://github.com/FranciscoSViana/meu-orcamento-front>
+
+---
+
+### 🏥 Health Management
+
+Healthcare management platform focused on appointment scheduling and patient management.
+
+#### Stack
+
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+
+#### Features
+
+✔ Patient Management
+
+✔ Appointment Scheduling
+
+✔ Healthcare Operations
+
+✔ Backend Architecture
+
+✔ Data Persistence
+
+#### Repository
+
+🔗 <https://github.com/FranciscoSViana/HEALTH_MANAGEMENT>
+
+---
+
+### 🥋 Projeto Mestre Daniel
+
+Business management platform focused on operational process organization.
+
+#### Features
+
+✔ Business Management
+
+✔ Data Organization
+
+✔ Service Layer Architecture
+
+✔ Backend Development
+
+✔ Database Integration
+
+#### Repository
+
+🔗 <https://github.com/FranciscoSViana/PROJETO_MESTRE_DANIEL>
+
+---
+
+## 🏗️ Architecture Expertise
+
+- Microservices Architecture
+- Event Driven Architecture
+- Clean Architecture
+- Hexagonal Architecture
+- Domain Driven Design (DDD)
+- Distributed Systems
+- API First Design
+- Cloud Native Applications
+- OAuth2 & OpenID Connect
+- Observability
+- Resilience Patterns
+- Software Design Principles
+- SOLID Principles
+
+---
+
+## ☁️ Cloud & DevOps
+
+### Platforms
+
+- AWS
+- Google Cloud Platform (GCP)
+
+### Containerization
+
+- Docker
+- Kubernetes
+
+### Infrastructure as Code
+
+- Terraform
+
+### CI/CD
+
+- GitHub Actions
+- Jenkins
+
+### Engineering Practices
+
+- Infrastructure as Code
+- Continuous Integration
+- Continuous Delivery
+- Monitoring & Logging
+- Cloud Native Development
+
+---
+
+## 🤖 AI Engineering
+
+Currently studying and building solutions with:
+
+- Spring AI
+- OpenAI APIs
+- Ollama
+- MCP (Model Context Protocol)
+- AI Agents
+- RAG Architectures
+- Prompt Engineering
+- LLM Integrations
+
+---
+
+## 🛠️ Main Technologies
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,maven,gradle"/>
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions"/>
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js"/>
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode,postman"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Apache Kafka
+- Event Streaming
+- Advanced Kubernetes
+- Platform Engineering
+- AI Engineering
+- Agentic AI
+- Distributed Systems
+- Cloud Architecture
+- Software Architecture Patterns
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FranciscoSViana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FranciscoSViana&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoSViana&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌎 Connect With Me
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/franciscovianadev" target="_blank">
+<a href="https://www.linkedin.com/in/franciscovianadev/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -54,142 +328,16 @@ Atualmente atuo construindo soluções escaláveis, resilientes e orientadas a b
 
 ---
 
-# 🛠️ Tech Stack
+## 💬 Philosophy
 
-## ☕ Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,kotlin,maven,gradle"/>
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,terraform"/>
-</p>
-
----
-
-## 🗄️ Banco de Dados
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-</p>
-
----
-
-## 🧰 Ferramentas
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode,postman"/>
-</p>
-
----
-
-# 📖 Atualmente estudando
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=kafka,react,angular,ts"/>
-</p>
-
-* Apache Kafka
-* Arquitetura Hexagonal
-* Event Driven Architecture
-* Observabilidade
-* IA aplicada ao desenvolvimento
-* Sistemas distribuídos
-* Engenharia de Plataforma
-* Kubernetes avançado
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoSViana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoSViana&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoSViana&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FranciscoSViana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
-
-# 🧠 Principais conhecimentos
-
-```text
-✔ Java & Spring Boot
-✔ Microsserviços
-✔ REST APIs
-✔ Clean Architecture
-✔ Domain-Driven Design (DDD)
-✔ Docker & Kubernetes
-✔ AWS & GCP
-✔ CI/CD
-✔ Testes Automatizados
-✔ Kafka & Mensageria
-✔ SQL & NoSQL
-✔ Observabilidade
-✔ API Gateway
-✔ OAuth2 & JWT
-✔ Kubernetes & Cloud Native
-✔ Arquitetura Hexagonal
-✔ Spring Security
-✔ Terraform & IaC
-```
-
----
-
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoSViana&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/FranciscoSViana/FranciscoSViana/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 💬 Frase
-
-> “Software de qualidade é construído com boas práticas, colaboração e evolução contínua.”
+> “Software quality emerges from solid engineering practices, collaboration, continuous learning and a commitment to building solutions that create real value.”
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+### ⭐ Thanks for visiting my profile!
+
+Always open to discussing software engineering, architecture, cloud computing and emerging technologies.
 
 </div>
